@@ -1,1 +1,2 @@
-# C39-Class-Activity-Template
+# C39RV_SpeedRacer_TeacherActivity
+Teacher Activity
